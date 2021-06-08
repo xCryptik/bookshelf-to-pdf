@@ -21,3 +21,7 @@ python
 >>> import pyautogui
 >>> pyautogui.position() # while cursor is on desired location
 ```
+
+### Extras
+
+Use [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF) to adds an OCR text layer to scanned PDF files, allowing them to be searched or copy-pasted.
